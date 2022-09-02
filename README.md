@@ -1,5 +1,4 @@
 # Vrtual-Assistant
-# Cost-calculation-of-rental-cars
 
 ## Introduction
 

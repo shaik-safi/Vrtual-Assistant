@@ -8,5 +8,5 @@
 - Nova can make jokes, speak to users informally, send WhatsApp messages, etc… 
 
 # Project Picture
-### Booking Form
+### Voice Assistant
 ![N|Solid](https://github.com/shaik-safi/Vrtual-Assistant/blob/main/screenshot/testing%20Nova.png?raw=true)
